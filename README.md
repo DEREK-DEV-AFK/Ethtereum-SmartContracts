@@ -1,1 +1,1 @@
-# Ethtereum-SmartContracts
+# Ethtereum-Solidity-SmartContracts
